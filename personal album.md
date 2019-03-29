@@ -6,7 +6,7 @@
     <td width="40%">
       <h1>欢迎来到我的blog</h1>
       <p><b>这是我的个人相册</b></p>
-      <a href="/index.html">回到主页</a>
     </td>
   </tr>
 </table>
+<a href="/index.html">回到主页</a>
