@@ -1,9 +1,9 @@
 <table border="0">
   <tr>
-    <td width="40%">
+    <td width="60%">
       <img src="/IMG20180502193525.jpg" width="50%">
     </td>
-    <td width="60%">
+    <td width="40%">
       <h1>欢迎来到我的blog</h1>
       <p><b>这是我的个人相册</b></p>
       <a href="/index.html">回到主页</a>
