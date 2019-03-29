@@ -7,8 +7,6 @@
       <img src="/WallpaperStudio10-23714.jpg" width="100%">
     </td>
   </tr>
-</table>
-<table border="1">
   <tr>
     <td width="50%">
       <img src="/WallpaperStudio10-91323.jpg" width="100%">
@@ -17,7 +15,6 @@
       <img src="/WallpaperStudio10-115314.jpg" width="100%">
     </td>
   </tr>
-<table border="2">
   <tr>
     <td width="50%">
       <img src="/WallpaperStudio10-115323.jpg" width="100%">
