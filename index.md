@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="60%">
       <h1>guojunrong</h1>
       <p><b>一个95后少年 O(∩_∩)O</b></p>
       <p><b>邮箱：786717101@qq.com</b></p>
