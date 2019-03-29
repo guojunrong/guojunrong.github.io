@@ -5,7 +5,9 @@
       <p><b>Postgraduate</b></p>
       <p><b>e-mail address：786717101@qq.com</b></p>
       <p><b>weibo：@TMATY</b></p>
+      <p><b>地址：https://weibo.com/p/1005056150352504</b></p>
       <p><b> wechat subscription account:啊呀白菜</b></p>
+      <p><b>github:https://github.com/guojunrong/guojunrong.github.io</b></p>
       <a href="/index.html">中文主页</a>
     </td>
     <td width="25%">
