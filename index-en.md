@@ -5,6 +5,7 @@
       <p><b>Postgraduate</b></p>
       <p><b>e-mail address：786717101@qq.com</b></p>
       <p><b>weibo：@TMATY</b></p>
+      <p><b> wechat subscription account:啊呀白菜</b></p>
       <a href="/index.html">中文主页</a>
     </td>
     <td width="25%">
