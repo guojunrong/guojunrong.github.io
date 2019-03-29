@@ -4,7 +4,7 @@
       <h1>guojunrong</h1>
       <p><b>Postgraduate</b></p>
       <p><b>e-mail address：786717101@qq.com</b></p>
-      <p><b>weibo：@GTMATY</b></p>
+      <p><b>weibo：@TMATY</b></p>
       <a href="/index.html">中文主页</a>
     </td>
     <td width="25%">
