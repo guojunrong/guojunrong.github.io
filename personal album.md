@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <img src="/IMG20180502193525.jpg" width="50%">
+      <img src="/IMG20180502193525.jpg" width="60%">
     </td>
     <td width="40%">
       <h1>欢迎来到我的blog</h1>
