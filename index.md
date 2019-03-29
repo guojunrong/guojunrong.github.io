@@ -5,7 +5,7 @@
       <p><b>硕士研究生</b></p>
       <p><b>邮箱：786717101@qq.com</b></p>
       <p><b>微博：@TangGuo的糖果</b></p>
-      <a href="/index-en.html">English Version</a>
+      <a href="/index-en.html">English Profile</a>
     </td>
     <td width="25%">
       <img src="/IMG20180502193525.jpg" width="100%">
