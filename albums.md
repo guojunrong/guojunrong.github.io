@@ -17,7 +17,6 @@
       <img src="/WallpaperStudio10-115314.jpg" width="100%">
     </td>
   </tr>
-</table>
 <table border="2">
   <tr>
     <td width="50%">
