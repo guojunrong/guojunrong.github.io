@@ -5,6 +5,7 @@
       <p><b>Postgraduate</b></p>
       <p><b>e-mail address：786717101@qq.com</b></p>
       <p><b>weibo：@TangGuo的糖果</b></p>
+      <a href="/index.html">中文主页</a>
     </td>
     <td width="25%">
       <img src="/IMG20180502193525.jpg" width="100%">
