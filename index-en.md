@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="60%">
       <h1>guojunrong</h1>
       <p><b>Postgraduate</b></p>
       <p><b>e-mail address：786717101@qq.com</b></p>
