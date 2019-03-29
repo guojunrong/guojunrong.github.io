@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>guojunrong</h1>
-      <p><b>硕士研究生</b></p>
+      <p><b>一个95后少年 O(∩_∩)O</b></p>
       <p><b>邮箱：786717101@qq.com</b></p>
       <p><b>微博：@TangGuo的糖果</b></p>
       <a href="/index-en.html">English Profile</a>
