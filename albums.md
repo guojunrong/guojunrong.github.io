@@ -18,7 +18,7 @@
     </td>
   </tr>
 </table>
-<table border="1">
+<table border="2">
   <tr>
     <td width="50%">
       <img src="/WallpaperStudio10-115323.jpg" width="100%">
