@@ -22,4 +22,5 @@
     <td width="50%">
       <img src="/ChMkJ1m1qR6IGaZPAAa-QWR6iL4AAgWOAKveAUABr5Z735.jpg" width="100%">
     </td>
+   </tr>
 </table>
