@@ -6,7 +6,7 @@
       <p><b>e-mail address：786717101@qq.com</b></p>
       <p><b>weibo:<a href="https://weibo.com/p/1005056150352504">@TMATY</a></b></p>
       <p><b> wechat subscription account:啊呀白菜</b></p>
-      <p><b>github:<a href="https://github.com/guojunrong/guojunrong.github.io">项目地址</a></b></p>
+      <p><b>github:<a href="https://github.com/guojunrong/guojunrong.github.io">project homepage</a></b></p>
       <a href="/index.html">中文主页</a>
     </td>
     <td width="25%">
