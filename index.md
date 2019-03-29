@@ -2,7 +2,7 @@
   <tr>
     <td width="60%">
       <h1>guojunrong</h1>
-      <p><b>    你来了，春天就来了</b></p>
+      <p><b>95后少年 😄</b></p>
       <p><b>邮箱：786717101@qq.com</b></p>
       <p><b>微博：<a href="https://weibo.com/p/1005056150352504">@TMATY</a></b></p>
       <p><b>公众号：啊呀白菜</b></p>
