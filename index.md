@@ -4,7 +4,7 @@
       <h1>guojunrong</h1>
       <p><b>一个95后少年 O(∩_∩)O</b></p>
       <p><b>邮箱：786717101@qq.com</b></p>
-      <p><b>微博：@TangGuo的糖果</b></p>
+      <p><b>微博：@GTMATY</b></p>
       <a href="/index-en.html">English Profile</a>
     </td>
     <td width="25%">
