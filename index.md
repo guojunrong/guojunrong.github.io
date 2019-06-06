@@ -14,7 +14,7 @@
       <a href="/index-en.html">English Profile</a>
     </td>
     <td width="25%">
-      <img src="/IMG20180502193525.jpg" width="100%">
+      <img src="/myself.PNG" width="100%">
     </td>
   </tr>
 </table>
